@@ -1,0 +1,14 @@
+github.com/matheus-maciel1/test_servers/db.json
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": [
+    {
+        "name": "typicode",
+    }
+  ],
+}
