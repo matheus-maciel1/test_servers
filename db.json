@@ -6,16 +6,28 @@
       "company_name":"MET. DENK"
     }
   ]
-}
+},
 {
   "message":"Consulta realizada com sucesso",
   "data":[
     {
       "code":2,
       "company_name":"Interlink"
+    },
+    {
+      "code":5,
+      "company_name":"Buddmeyer"
+    },
+    {
+      "code":6,
+      "company_name":"Arauco"
+    },
+    {
+      "code":7,
+      "company_name":"Oxford"
     }
   ]
-}
+},
 {
   "message":"Consulta realizada com sucesso",
   "data":[
@@ -24,7 +36,7 @@
       "company_name":"Tuper"
     }
   ]
-}
+},
 {
   "message":"Consulta realizada com sucesso",
   "data":[
