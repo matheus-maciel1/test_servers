@@ -4,12 +4,7 @@
     {
       "code":1,
       "company_name":"MET. DENK"
-    }
-  ]
-},
-{
-  "message":"Consulta realizada com sucesso",
-  "data":[
+    },
     {
       "code":2,
       "company_name":"Interlink"
@@ -25,24 +20,6 @@
     {
       "code":7,
       "company_name":"Oxford"
-    }
-  ]
-},
-{
-  "message":"Consulta realizada com sucesso",
-  "data":[
-    {
-      "code":3,
-      "company_name":"Tuper"
-    }
-  ]
-},
-{
-  "message":"Consulta realizada com sucesso",
-  "data":[
-    {
-      "code":4,
-      "company_name":"Tekmatik"
     }
   ]
 }
