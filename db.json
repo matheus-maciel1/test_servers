@@ -1,13 +1,21 @@
 {
-  "posts": [
+  "message":"Consulta realizada com sucesso",
+  "data":[
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": [
+      "code":1,
+      "company_name":"MET. DENK"
+    },
     {
-        "name": "typicode"
+      "code":2,
+      "company_name":"Interlink"
+    },
+    {
+      "code":3,
+      "company_name":"Tekmatik"
+    },
+    {
+      "code":4,
+      "company_name":"Tuper"
     }
   ]
 }
