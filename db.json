@@ -1,6 +1,5 @@
 {
-  "message":"Consulta realizada com sucesso",
-  "data":[
+  "company":[
     {
       "code":1,
       "company_name":"MET. DENK"
@@ -10,16 +9,60 @@
       "company_name":"Interlink"
     },
     {
-      "code":5,
+      "code":3,
       "company_name":"Buddmeyer"
     },
     {
-      "code":6,
+      "code":4,
       "company_name":"Arauco"
     },
     {
-      "code":7,
+      "code":5,
       "company_name":"Oxford"
+    }
+  ],
+  "machine1":[
+    {
+      "machine_code":1,
+      "machine_name":"PE250"
+    },
+    {
+      "machine_code":2,
+      "machine_name":"PE280"
+    },
+    {
+      "machine_code":3,
+      "machine_name":"PE290"
+    },
+    {
+      "machine_code":4,
+      "machine_name":"PE350"
+    },
+    {
+      "machine_code":5,
+      "machine_name":"PE440"
+    }
+  ],
+  "machine2":[
+    {
+      "machine_code":1,
+      "machine_name":"IL957"
+    },
+    {
+      "machine_code":2,
+      "machine_name":"IL123"
+    },
+    {
+      "machine_code":3,
+      "machine_name":"IL99B"
+    },
+    {
+      "machine_code":4,
+      "machine_name":"IL22"
+    },
+    {
+      "machine_code":5,
+      "machine_name":"IL111"
     }
   ]
 }
